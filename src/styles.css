@@ -1,0 +1,73 @@
+/* Add application styles & imports to this file! */
+#header{
+  font-size: 30px;
+  text-align: center;
+  font-family: Calibri;
+  background-color: darkturquoise ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: ;
+}
+
+#admin{
+  text-align: center;
+  font-family: Calibri;
+  
+  background-color: rgb(195, 201, 200);
+  width: 200px;
+ margin-left: 180px;
+  
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  border-radius: 10px;
+  color: rgb(87, 85, 85);
+
+}
+#admin:hover{
+background-color: rgb(209, 209, 255);
+transition: 0.5s;
+
+}
+
+#student{
+  text-align: center;
+  font-family: Calibri;
+  background-color: rgb(195, 201, 200);
+  width: 200px;
+  margin-left: 180px;
+ 
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  border-radius: 10px;
+  color: rgb(87, 85, 85);
+}
+#student:hover{
+  background-color: rgb(209, 209, 255);
+  transition: 0.5s;
+}
+
+#pedagog{
+  text-align: center;
+  font-family: Calibri;
+  background-color: rgb(195, 201, 200);
+  width: 200px;
+  margin-left: 180px;
+  
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  border-radius: 10px;
+  color: rgb(87, 85, 85);
+}
+#pedagog:hover{
+  background-color: rgb(209, 209, 255);
+  transition: 0.5s;
+}
+
+#kategoria{
+  border: 2px solid black;
+  margin-top: 200px;
+background-color: rgb(223, 219, 235);
+}
